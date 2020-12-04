@@ -7,4 +7,5 @@
 - [Discord](https://discord.gg/juYGt87rQw) 🖤
 - [Youtube](https://www.youtube.com/LilMorsy) 💙
 - [Instagram](https://www.instagram.com/morsycik/) ❤️
+
 ![Morsy's Github Stats](https://github-readme-stats.vercel.app/api?username=morsycik&show_icons=true&theme=radical)
