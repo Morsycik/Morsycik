@@ -5,7 +5,7 @@
 
 ### 📫 İletişim
 - [Discord](https://discord.gg/juYGt87rQw) 🖤
-- [Youtube](https://www.youtube.com/LilMorsy) 💙
+- [Youtube](https://www.youtube.com/channel/UCT_Si88O-7YHxs29heTB-xg) 💙
 - [Instagram](https://www.instagram.com/morsycik/) ❤️
 
 ![Morsy's Github Stats](https://github-readme-stats.vercel.app/api?username=morsycik&show_icons=true&theme=radical)
