@@ -4,7 +4,7 @@
 <p align="center">Bana ulaşmak için aşağıdaki sayfalara göz at!</p>
 
 ### 📫 İletişim
-- [Discord](https://discord.gg/juYGt87rQw) 🖤
+- [Discord](https://discord.gg/PcE7HAkuJf) 🖤
 - [Youtube](https://www.youtube.com/channel/UC3RTUxSBCUnFTKirF-lsDqg) 💙
 - [Instagram](https://www.instagram.com/morsycik/) ❤️
 
